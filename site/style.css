@@ -5,13 +5,27 @@ p{
 	text-align: center;
 }
 
-h1{
-	color: #8A2BE2;
-}
 
-#text{
+h1, #text{
 	color: green;
 	font-size: 40px;
 	width: 300px;
 	text-align: left;
+	opacity: .45;
+	background-color: blue; 
+}
+
+
+.text{
+	color: #6495ED;
+	font-size: 36px;
+	width: 200px;
+	text-align: right;
+}
+
+#software{
+	background-color: red;
+	font-size: 50px;
+	opacity: .6;
+
 }
